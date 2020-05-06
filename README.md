@@ -1,5 +1,4 @@
-python-package-example
+# package-example
 
-This is a minimal python package : https://github.com/7AM7/pythonPackageLesson
-
+This is a simple python package : https://github.com/7AM7/package-example
 
